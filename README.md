@@ -17,14 +17,3 @@
 
   - Linear regression
   - Logistic regression
-
-- ​
-
-- ​
-
-- ​
-
-  ​
-
-  ​
-
