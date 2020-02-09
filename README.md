@@ -1,5 +1,5 @@
 # Computer Vision
-- week1 CV Basic I
+- [week1 CV Basic I](week1)
 
   - crop,color shift,gamma,rotation,affine transform,perspective transform
 
