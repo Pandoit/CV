@@ -56,5 +56,4 @@ plt.imshow(cv2.cvtColor(img_random_color, cv2.COLOR_BGR2RGB))
 plt.show()
 ```
 
-### 
-
+###
