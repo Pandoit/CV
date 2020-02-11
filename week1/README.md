@@ -18,7 +18,7 @@ plt.imshow(cv2.cvtColor(img_ori, cv2.COLOR_BGR2RGB))
 plt.show()
 ```
 
-### 2.image crop
+### 2.image color shift
 
 ```python
 import cv2
@@ -26,7 +26,7 @@ from matplotlib import pyplot as plt
 from augmentation import *
 img_ori = cv2.imread('lenna.jpg', 1)
 img_random_color = color_shift(img_ori, 60, 0, 0)  # BGR, B channel plus 60
-plt.imshow(cv2.cvtColor(img_random_color, cv2.COLOR_BGR2RGB))
+plt.imshow(cv2.cvtColor(img_random_color,cv2.COLOR_BGR2RGB))
 plt.show()
 ```
 
@@ -56,4 +56,3 @@ plt.imshow(cv2.cvtColor(img_random_color, cv2.COLOR_BGR2RGB))
 plt.show()
 ```
 
-###
