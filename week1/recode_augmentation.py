@@ -114,7 +114,7 @@ my_show(img_brighter, size=(6, 6))
 # img_brighter = adjust_gamma(img_dark, 0.5)   # 设置值小于 1，整体亮度变暗
 # my_show(img_brighter, size=(6, 6))
 
-# 8.直方图操作 histogram
+# 8.直方图操作， histogram
 plt.subplot(121)
 plt.hist(img_dark.flatten(), 256, [0, 256], color='b')  # img_dark.flatten()是将img_dark二维矩阵拉平成一维的
 plt.subplot(122)
@@ -124,7 +124,7 @@ plt.show()
 # 8.1YUV色彩空间的Y进行直方图均衡来调亮图片,YUV中Y是亮度参数
 img_yuv = cv2.cvtColor(img_brighter, cv2.COLOR_BGR2YUV)
 # equalize the histogram of the Y channel
-img_yuv[:, :, 0] = cv2.equalizeHist(img_yuv[:, :, 0])  # 只取Y通道并进行直方图均衡，0指的是第一个通道
+img_yuv[:, :, 0] = cv2.equalizeHist(img_yuv[:, :, 0])  # Y通道并进行直方图均衡，：，：，分别表示行全取和列全取，0指的是第一个通道即Y通道
 # convert the YUV image back to RGB format
 img_output = cv2.cvtColor(img_yuv, cv2.COLOR_YUV2BGR)  # y: luminance(明亮度), u&v: 色度饱和度
 
