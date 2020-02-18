@@ -6,7 +6,7 @@
 
 - 1.优秀的代码作品
 
-  - [excell work](medianblur_student.py)
+  - [excell work](MedianBlur_student.py)
 
 - 2.我的作品
 
