@@ -9,14 +9,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/123.py">
+        <entry file="file://$USER_HOME$/Desktop/image_stitching/项目一 图像拼接/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="529">
+              <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -28,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -41,14 +42,17 @@
         <option value="$PROJECT_DIR$/../../../CV/2020.02.09第四周/logistic/logistic.py" />
         <option value="$PROJECT_DIR$/../../../CV/2020.02.09第四周/ransac/ransac.py" />
         <option value="$PROJECT_DIR$/123.py" />
+        <option value="$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi/softmax.ipynb" />
+        <option value="$PROJECT_DIR$/softmax.ipynb" />
+        <option value="$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi/nn_shousi.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="165" />
-    <option name="y" value="50" />
-    <option name="width" value="975" />
-    <option name="height" value="928" />
+    <option name="x" value="307" />
+    <option name="y" value="45" />
+    <option name="width" value="1294" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ransac">
+  <component name="RunManager" selected="Python.nn_shousi">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="week3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,28 +131,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/线性回归和逻辑回归/15822817166/linear_regression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="week3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,6 +183,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nn_shousi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="week3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi/nn_shousi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ransac" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="week3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -225,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nn_shousi" />
         <item itemvalue="Python.ransac" />
         <item itemvalue="Python.logistic" />
         <item itemvalue="Python.123" />
         <item itemvalue="Python.logistic_regression (1)" />
-        <item itemvalue="Python.linear_regression" />
       </list>
     </recent_temporary>
   </component>
@@ -252,11 +256,16 @@
       <workItem from="1583302041574" duration="2066000" />
       <workItem from="1583370996698" duration="1172000" />
       <workItem from="1583754072525" duration="7322000" />
+      <workItem from="1583813304316" duration="1214000" />
+      <workItem from="1583911818641" duration="597000" />
+      <workItem from="1583918992773" duration="9074000" />
+      <workItem from="1584019267487" duration="4000" />
+      <workItem from="1584062518768" duration="4011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27919000" />
+    <option name="totallyTimeSpent" value="42819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,14 +277,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="41" width="779" height="741" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.041608877" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13203754" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23770492" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23762377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -286,6 +296,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.24752475" />
       <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Jupyter" order="13" weight="0.32956153" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -322,6 +333,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/week3$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1583758501513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../CV/2020.02.09第四周/logistic" />
     <SUITE FILE_PATH="coverage/week3$week3_linear_regression_assignment.coverage" NAME="week3 linear regression assignment Coverage Results" MODIFIED="1582194965272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/线性回归和逻辑回归/15290877632" />
+    <SUITE FILE_PATH="coverage/week3$nn_shousi.coverage" NAME="nn_shousi Coverage Results" MODIFIED="1583941816903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi" />
     <SUITE FILE_PATH="coverage/week3$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1582195189480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/week3$logistic_regression__1_.coverage" NAME="logistic_regression (1) Coverage Results" MODIFIED="1582195222633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/week3$ransac.coverage" NAME="ransac Coverage Results" MODIFIED="1583761314189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../CV/2020.02.09第四周/ransac" />
@@ -387,12 +399,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/softmax.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi/softmax.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../../../CV/2020.02.16第五周/nn_shousi/nn_shousi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/123.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../CV/项目1优秀作业/第20组  陈子华  孙青/Project 1 陈子华 孙青/Classical Project__Image_stitching/classical project image stitching.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/image_stitching/项目一 图像拼接/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

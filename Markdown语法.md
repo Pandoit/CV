@@ -100,4 +100,13 @@ $$
 用行的末尾\\\就可以
 
 5.
-
+$$
+\
+\left\{
+\begin{matrix}
+\ WTxi+b≥+1,yi=+1  \\
+\ WTxi+b≤−1,yi=-1
+\end{matrix}
+\right.
+$$
+$$
